@@ -1,3 +1,11 @@
+<p align="right">
+  <img width="160" height="100" src="candyjar_logo.png">
+</p>
+
+
+
+
+
 ### Hi there 👋
 I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
 
