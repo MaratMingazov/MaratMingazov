@@ -9,9 +9,9 @@ I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
 
 ### Get in touch
 1. If you want to a short call with me - [calendly](https://calendly.com/maratmingazovr/call-with-marat-mingazov) 
-2. check my candyjar profile - https://candyjar.io/p/MaratMingazov
-3. check my linkedin profile - https://www.linkedin.com/in/maratmingazovr/
-4. write me on telegram - @MaratMingazovR
+2. Check my candyjar profile - https://candyjar.io/p/MaratMingazov
+3. Check my linkedin profile - https://www.linkedin.com/in/maratmingazovr/
+4. Write me on telegram - @MaratMingazovR
 
 See you :)
 
