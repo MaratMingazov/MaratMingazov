@@ -9,7 +9,9 @@
 ### Hi there 👋
 I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
 
-![languages](languages.png)
+<p align="center">
+  <img width="625" height="250" src="languages.png">
+</p>
 
 ### My projects:
 1. [candyjar.io](https://candyjar.io) - Talent Acquisition Tool that helps you to search for developers by source code assessment on GitHub and deep searching on LinkedIn. CandyJar Engine continuously inspects developers' workflow to detect their experience, languages, stack of technologies.
