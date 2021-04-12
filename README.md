@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
 
+![languages](languages.png)
+
 ### My projects:
 1. [candyjar.io](https://candyjar.io) - Talent Acquisition Tool that helps you to search for developers by source code assessment on GitHub and deep searching on LinkedIn. CandyJar Engine continuously inspects developers' workflow to detect their experience, languages, stack of technologies.
 2. [getCountry](https://github.com/MaratMingazovOrg/getCountry) - The simple Kotlin library that transforms String location into Country/Region/City
