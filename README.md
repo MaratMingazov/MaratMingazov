@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
+
+### My projects:
+1. [getCountry](https://github.com/MaratMingazovOrg/getCountry) - The simple Kotlin library that transforms String location into Country/Region/City
 
 <!--
 **MaratMingazov/MaratMingazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
