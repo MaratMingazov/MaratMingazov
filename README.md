@@ -1,5 +1,5 @@
 <p align="right">
-  <img width="160" height="100" src="candyjar_logo.png">
+  <img width="96" height="60" src="candyjar_logo.png">
 </p>
 
 
