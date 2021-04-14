@@ -9,6 +9,8 @@
 ### Hi there 👋
 I'm Marat Mingazov - Java Software Engineer, working on cool opensource tools.
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 <p align="center">
   <img width="625" height="250" src="languages.png">
 </p>
